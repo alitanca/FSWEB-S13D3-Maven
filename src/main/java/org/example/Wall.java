@@ -9,7 +9,7 @@ public class Wall {
         setHeight(height);
     }
 
-    // Hamcrest'teki instanceOf(Double.class) için wrapper döndürüyoruz
+
     public Double getWidth()  { return width; }
     public Double getHeight() { return height; }
 
